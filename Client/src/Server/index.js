@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const endPoint = 'https://amazon-clone22.herokuapp.com/api';
+const endPoint = 'https://mern-amazon-2rc9.onrender.com/api';
 
 const config = {
     'Content-Type': 'application/json'
